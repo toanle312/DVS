@@ -57,7 +57,7 @@ const Voting = () => {
       </section>
       {isVote && (
         <h1 className="text-orange-400 text-3xl font-medium text-center mb-10">
-          *** You already vote ***
+          *** You have already voted !!! ***
         </h1>
       )}
       <section className="flex flex-wrap justify-evenly gap-10 min-h-[400px]">
